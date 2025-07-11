@@ -18,21 +18,21 @@ How to fix common login issues in the K12 Online School (OLS) for Louisiana Virt
 ### 1. Clear Your Browser’s Cache & Cookies
 - **Chrome**: Settings → Privacy and security → Clear browsing data  
 - **Firefox**: Settings → Privacy & Security → Cookies and Site Data → Clear Data
-
+Clearing your browser’s cache and cookies is the recommended fix for authentication errors on K12 platforms
 ### 2. Enable Cookies & JavaScript
 - Ensure cookies are allowed for `k12.com`  
 - JavaScript is enabled by default in modern browsers — keep it on
 
 ### 3. Use Chrome or Firefox
 - The Online School (OLS) performs best in one of these browsers
-
+K12 technical FAQs emphasize using supported browsers (Chrome or Firefox) for optimal access to the Online School
 ### 4. Reset Forgotten Password
 - On the OLS login page, click **Forgot password?**  
 - Follow the email reset instructions, then log in again
 
 ### 5. Use K12’s “Uh‑Oh Trouble” Guide
 - Consult K12’s official troubleshooting page for login errors
-
+K12 recommends clearing cookies and cache and restarting your browser to resolve the ‘Uh‑Oh Trouble Accessing Page’ error.
 ---
 
 ## ⚠️ Common Error: “Uh‑Oh Trouble Accessing Page”
